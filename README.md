@@ -33,7 +33,6 @@ result = vec3d.cross(vec3d)
 # Angle calculation (in radians)
 result = vec4d.angle(vec4d)
 
-Access vector attributes and properties:
 # Access the magnitude of a vector
 magnitude = vec2d.mag
 
