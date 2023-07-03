@@ -19,7 +19,7 @@ vec3d = Vect3D((1, 4, 6))
 
 vec4d = Vect4D((3, 5, 7, 2))
 
-# Perform vector operations using the methods provided by the vector classes:
+# Perform vector operations:
 **Addition**
 
 result = vec2d + vec2d
