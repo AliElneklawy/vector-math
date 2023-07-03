@@ -1,11 +1,11 @@
 # vector-math
 To use the Vector Module in your Python scripts, follow these steps:
 
-**Import the required vector classes from the module**:
+**Import the required vector classes from the module**
 
 from vectors import Vect2D, Vect3D, Vect4D
 
-# Create vector objects:
+# Create vector objects
 
 **Create a 2D vector**
 
